@@ -25,7 +25,7 @@ java Day4Part1\
 java Day6Part1\
 java Day6Part2\
 java Day9Part1\
-java Day9Part2\
+java Day9Part2
 
 
 
