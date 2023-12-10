@@ -14,7 +14,7 @@ javac -d ./ src/Day4Part1.java\
 javac -d ./ src/Day6Part1.java\
 javac -d ./ src/Day6Part2.java\
 javac -d ./ src/Day9Part1.java\
-javac -d ./ src/Day9Part2.java\
+javac -d ./ src/Day9Part2.java
 
 # Run files 
 java Day1Part1\
