@@ -1,6 +1,6 @@
 # Comp371AoCJava
 
-#Information
+# Information
 I completed both parts 1 and 2 of days 1,2,6,9\
 I only completed part 1 of day 4
 
